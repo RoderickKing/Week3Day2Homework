@@ -1,0 +1,20 @@
+h1 {color: blue;
+    font-size: 100px;
+}
+h2 {color: red;
+    font-size: 40px;
+}
+button{color: green;
+    font-size: 50px;
+}
+
+p{color: orange;
+      font-size: 50px;
+}
+
+picture {
+  padding: 250px 0;
+	margin: 30px;
+  background-image: url("https://ichef.bbci.co.uk/news/660/cpsprodpb/2E46/production/_104764811_1f989f2e-93e1-4526-9c6b-8a8e00e343fd.jpg");
+  background-size: cover;
+}
